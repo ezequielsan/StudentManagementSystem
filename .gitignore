@@ -1,0 +1,23 @@
+# Ignore Java class files
+*.class
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore build output directories
+bin/
+out/
+
+# Ignore dependency libraries
+lib/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled logs and temporary files
+*.log
+*.tmp
+
+# Ignore generated data files
+alunos.dat
