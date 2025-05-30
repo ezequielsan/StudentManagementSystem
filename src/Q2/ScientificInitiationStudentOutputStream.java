@@ -1,10 +1,10 @@
-package stream;
+package Q2;
 
 import java.io.OutputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
-import models.ScientificInitiationStudent;
+import Q1.ScientificInitiationStudent;
 
 public class ScientificInitiationStudentOutputStream extends OutputStream {
 

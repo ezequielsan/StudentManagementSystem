@@ -1,7 +1,7 @@
 import java.io.FileOutputStream;
 
-import models.ScientificInitiationStudent;
-import stream.ScientificInitiationStudentOutputStream;
+import Q2.ScientificInitiationStudentOutputStream;
+import Q1.ScientificInitiationStudent;
 
 public class App2 {
     public static void main(String[] args) {

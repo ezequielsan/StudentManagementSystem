@@ -1,7 +1,9 @@
-package stream;
+package Q2;
 
 import java.io.*;
-import models.ScientificInitiationStudent;
+
+import Q3.ScientificInitiationStudentInputStream;
+import Q1.ScientificInitiationStudent;
 
 public class TestFile {
     public static void main(String[] args) {

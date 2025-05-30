@@ -1,7 +1,9 @@
-package stream;
+package Q2;
 
 import java.io.IOException;
-import models.ScientificInitiationStudent;
+
+import Q3.ScientificInitiationStudentInputStream;
+import Q1.ScientificInitiationStudent;
 
 public class TestStdin {
     public static void main(String[] args) {

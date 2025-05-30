@@ -1,5 +1,5 @@
 import interfaces.Remunerable;
-import models.*;
+import Q1.*;
 
 public class App {
     public static void main(String[] args) throws Exception {

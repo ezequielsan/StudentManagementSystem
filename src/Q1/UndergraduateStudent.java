@@ -1,4 +1,4 @@
-package models;
+package Q1;
 
 public class UndergraduateStudent extends Student {
 

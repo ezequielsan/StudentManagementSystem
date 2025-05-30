@@ -1,9 +1,11 @@
-package stream;
+
 
 import java.net.*;
+
+import Q3.ScientificInitiationStudentInputStream;
+
 import java.io.*;
-import models.ScientificInitiationStudent;
-import stream.ScientificInitiationStudentInputStream;
+import Q1.ScientificInitiationStudent;
 
 public class TestTCPServer {
     public static void main(String[] args) {

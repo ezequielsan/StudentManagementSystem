@@ -1,4 +1,4 @@
-package models;
+package Q1;
 
 import interfaces.Remunerable;
 

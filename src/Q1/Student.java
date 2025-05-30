@@ -1,4 +1,4 @@
-package models;
+package Q1;
 
 public abstract class Student {
     private String name;
